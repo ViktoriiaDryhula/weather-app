@@ -85,7 +85,7 @@ a:link {
     rgba(217, 217, 217, 0) 96.34%
   );
   height: 222px;
-  margin: 68px 122px;
+  margin: 68px 122px 0px 122px;
 }
 table {
   margin-left: 38px;
@@ -97,4 +97,7 @@ table {
 }
 .weather-images {
   width: 12%;
+}
+.github-link {
+  margin-left: 122px;
 }
